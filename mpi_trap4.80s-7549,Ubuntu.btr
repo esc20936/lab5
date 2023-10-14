@@ -1,0 +1,7 @@
+
+mpi_trap4:7549 terminated with signal 11 at PC=55df4221a673 SP=7ffc51d19dc0.  Backtrace:
+./mpi_trap4(+0x1673)[0x55df4221a673]
+./mpi_trap4(+0x1351)[0x55df4221a351]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f94bc629d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f94bc629e40]
+./mpi_trap4(+0x1225)[0x55df4221a225]
